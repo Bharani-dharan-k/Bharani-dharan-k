@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with Placements in ZOHO<br />
 - 💬 Ask me about Tech<br />
 - 📫 How to reach me :<br />
-<br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/bharanidharan-k-a7b63a322)
+<br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bharanidharan-k-a7b63a322/?originalSubdomain=in)
 - 😄 Pronouns: Techie<br />
 - ⚡ Fun fact: I know 3D Animation.<br />
 <br />
