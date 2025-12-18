@@ -15,11 +15,11 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Building projects using **MERN Stack & Spring Boot**
-- 🧠 Strong foundation in **DSA & problem-solving**
-- 🎯 Focused on **product-based company placements**
-- 💬 Tech interests: **Web Development, Java, Spring Boot, MERN**
-- 🎨 Extra skill: **3D Animation & Visual Design**
+- Building projects using **MERN Stack & Spring Boot**
+- Strong foundation in **DSA & problem-solving**
+- Focused on **product-based company placements**
+- Tech interests: **Web Development, Java, Spring Boot, MERN**
+- Extra skill: **3D Animation & Visual Design**
 
 ---
 
