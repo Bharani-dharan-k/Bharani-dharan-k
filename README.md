@@ -1,11 +1,16 @@
 ## 👋 Hi, I’m **Bharanidharan K**
 **Aspiring Full-Stack Developer | MERN Stack | Spring Boot | Problem Solver**
+<table>
+  <tr>
+    <td>
+      Motivated full-stack developer with hands-on experience in building scalable web applications. Passionate about problem-solving, clean backend design, and continuous learning. Actively preparing for **product-based company placements**, with a strong interest in **Zoho**.
+    </td>
+    <td>
+      <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="250"/>
+    </td>
+  </tr>
+</table>
 
-<img align="right" width="340" height="270" hspace="20" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"/>
-
-<p align="justify">
-Motivated full-stack developer with hands-on experience in building scalable web applications. Passionate about problem-solving, clean backend design, and continuous learning. Actively preparing for <b>product-based company placements</b>, with a strong interest in <b>Zoho</b>.
-</p>
 
 ---
 
