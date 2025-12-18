@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      Motivated full-stack developer with hands-on experience in building scalable web applications. Passionate about problem-solving, clean backend design, and continuous learning. Actively preparing for **product-based company placements**, with a strong interest in **Zoho**.
+      Motivated full-stack developer with hands-on experience in building scalable web applications. Passionate about problem-solving, clean backend design, and continuous learning. Actively preparing for product-based company placements, with a strong interest in Zoho.
     </td>
     <td>
       <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="250"/>
